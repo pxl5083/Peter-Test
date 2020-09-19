@@ -1,3 +1,3 @@
-# Header 1
-## Header 2
-### Header 3 
+# Welcome to my personal site!
+                    ##This is going to be a site about myself, so I guess you are gonna need to know who that is, huh?
+
