@@ -11,6 +11,6 @@
 - In my free time I play video games and watch sports
 - I am very interested in comics and computers
 
-<img src="images/minimalist city.jpg"/>
    
 
+https://github.com/pxl5083/Peter-Test/blob/master/docs/Resume
