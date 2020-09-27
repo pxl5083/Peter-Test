@@ -11,6 +11,6 @@
 - In my free time I play video games and watch sports
 - I am very interested in comics and computers
 
-<img src"..docs/images/minimalist city.jpg">
+<img src="docs/images/minimalist city.jpg">
    
 
