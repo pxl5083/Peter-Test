@@ -10,7 +10,7 @@
 - I collect Funko Pops
 - In my free time I play video games and watch sports
 - I am very interested in comics and computers
-
+[a relative link] (resume)
    
 
 https://github.com/pxl5083/Peter-Test/blob/master/docs/Resume
