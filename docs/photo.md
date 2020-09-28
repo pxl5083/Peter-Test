@@ -5,5 +5,5 @@
 <img src="images/image0 (1)-2.jpg"/>
 <img src="images/image2-2.jpg"/>
 <img src="images/image6-2.jpg"/>
-<img src=""/>
+<img src="images/image8-2.jpg"/>
 <img src=""/>
