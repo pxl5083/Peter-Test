@@ -12,9 +12,9 @@
 - I am very interested in comics and computers
 
 
-[a relative link](resume.md)
+[My Resume](resume.md)
 
-[My Photos](photos.md)
+[My Photos](photo.md)
 
 
 
