@@ -3,7 +3,7 @@
 <img src="images/IMG_2996.jpg"/>
 <img src="images/IMG_2998.jpg"/>
 <img src="images/image0 (1)-2.jpg"/>
-<img src=""/>
+<img src="images/image2-2.jpg"/>
 <img src=""/>
 <img src=""/>
 <img src=""/>
