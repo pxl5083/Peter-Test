@@ -14,7 +14,7 @@
 
 [My Resume](resume.md)
 
-[My Photos](docs/photo.md)
+[My Photos](photo.md)
 
 
 
