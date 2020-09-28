@@ -1,12 +1,12 @@
 # Resume
 
-Quick Links:
+**Quick Links:**
 
 - [Home](index.md)
 - [Photos](photo.md)
 	
-**PETER ALEXANDER LAMIS
-316 West 40th St. | Erie, PA 16508 | 814 – 602- 7371 | Peterlamis4501@gmail.com**
+**PETER ALEXANDER LAMIS**
+316 West 40th St. | Erie, PA 16508 | 814 – 602- 7371 | Peterlamis4501@gmail.com
 
 **Objective:** 
 - To gain experience in the world of business and web development through internships and careful observation. I want to branch out and fully understand the intricacies of both sides of the workforce. .
