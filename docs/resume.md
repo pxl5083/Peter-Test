@@ -4,6 +4,7 @@
 
 - [Home](index.md)
 - [Photos](photo.md)
+- [Reflection](reflection.md)
 	
 **PETER ALEXANDER LAMIS**
 316 West 40th St. | Erie, PA 16508 | 814 – 602- 7371 | Peterlamis4501@gmail.com
