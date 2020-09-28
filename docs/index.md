@@ -12,7 +12,7 @@
 - I am very interested in comics and computers
 [a relative link](resume.md)
 
-resume.md
+(resume.md)
    
 
 https://github.com/pxl5083/Peter-Test/blob/master/docs/Resume
