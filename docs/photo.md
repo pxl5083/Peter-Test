@@ -3,6 +3,8 @@
 Quick Links:
   - [Home](index.md)
   - [Resume](resume.md)
+  - [Reflection](reflection.md)
+  
 <img src="images/IMG_1966.jpg"/>
 <img src="images/IMG_2996.jpg"/>
 <img src="images/IMG_2998.jpg"/>
