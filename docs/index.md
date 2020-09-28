@@ -14,6 +14,8 @@
 
 [a relative link](resume.md)
 
+[My Photos](photos.md)
+
 
 
    
