@@ -14,7 +14,9 @@
 
 [My Resume](resume.md)
 
-[My Photos](photo.md)
+[Gallery](photo.md)
+
+[Reflection](reflection.md)
 
 
 
